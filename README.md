@@ -1,7 +1,7 @@
 ### Hi there, I'm Sounak   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/anishastwt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpaanbahar&screen_name=paanbahar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sounxk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2sounxk&screen_name=sounxk)
 
 
 <img src="https://github.com/sounxk/sounxk/blob/master/readMe.gif?raw=false" width="40%">
