@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sounxk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sounxk)
 
 
-<img src="https://github.com/sounxk/sounxk/blob/master/readMe.gif?raw=false" width="40%">
+<img src="https://github.com/sounxk/sounxk/blob/main/readMe.gif?raw=false" width="40%">
 
 
 
@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://github.com/sounxk/sounxk/blob/master/Art/3.gif" alt="Sounak Spotify Playing" width="200" />](https://open.spotify.com/playlist/3gGazk32zUQvmP1Z8q4Fer)
+[<img src="https://github.com/sounxk/sounxk/blob/main/Art/3.gif" alt="Sounak Spotify Playing" width="200" />](https://open.spotify.com/playlist/3gGazk32zUQvmP1Z8q4Fer)
 
 ### Connect with me:
 
